@@ -8,7 +8,8 @@
 
 ## 作業區
 
-### - 課程筆記區：
+### - [課程筆記區：]
+(https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)
 
 ### - 作業連結區：
 
