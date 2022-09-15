@@ -22,7 +22,7 @@
 
 [220915_str_practice_2](http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_2.ipynb)
 
-[220915_str_practice_3]http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_3.ipynb)
+[220915_str_practice_3](http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_3.ipynb)
 
 [220915_str_practice_4](http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_4.ipynb)
 
@@ -36,4 +36,3 @@
 ##### [220915_str_practice_3](http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_3.ipynb)
 ##### [220915_str_practice_4](http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_4.ipynb)
 ##### [220915_str_practice_5](http://localhost:8888/notebooks/Downloads/1111%20%E5%9B%9B234%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/220915_str_practice_5.ipynb)
->>>>>>> 6df021d299b6d020cd8b7b8aa4e26dc88ee4cc04
