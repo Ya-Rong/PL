@@ -24,4 +24,4 @@
 
 --------------------
 ## 📚參考資料
-##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/)
+##### [參考書目]：Python Data Science Handbook(https://jakevdp.github.io/PythonDataScienceHandbook/)
