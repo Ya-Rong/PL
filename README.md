@@ -4,7 +4,7 @@
 ## 🦕 我
 #### 姓名：吳亞蓉
 #### 系級：科技系二年級
---------------------
+
 ## 📃作業區
 ### 課堂練習區：
 #### [week 1](https://github.com/Ya-Rong/PL/tree/main/week1_220908)
@@ -13,7 +13,7 @@
 ### 專題連結區：
 ### [課程筆記區](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
 --------------------
-#### 每週課程紀錄：
+#### 每週課程紀錄
 ##### week1
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ###### ． [課程錄影](https://www.youtube.com/watch?v=LiPvUoV-Dy4)
