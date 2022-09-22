@@ -10,6 +10,7 @@
 #### [week 1](https://github.com/Ya-Rong/PL/tree/main/week1_220908)
 #### [week 2](https://github.com/Ya-Rong/PL/tree/main/week2_220915)
 ### 作業連結區：
+#### [HW1](
 ### 專題連結區：
 ### [課程筆記區](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
 --------------------
