@@ -29,8 +29,7 @@
 ###### ． [課程範例](https://github.com/pecu/PL/blob/main/Python02.ipynb)、[課程範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_code.ipynb)
 ##### week4
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
-###### ． [課程錄影part1]
-###### ． [課程範例]
+###### ． [課程錄影part1](https://www.youtube.com/watch?v=jF557RxtXFs)、[課程錄影part2](https://www.youtube.com/watch?v=wEkaGEma22w)、[課程錄影part3](https://www.youtube.com/watch?v=IPNpHfKWXJ8)
 --------------------
 ## 📚參考資料
 ##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook
