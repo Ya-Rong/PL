@@ -9,6 +9,7 @@
 ### 課堂練習區：
 #### [week 1](https://github.com/Ya-Rong/PL/tree/main/week1_220908)
 #### [week 2](https://github.com/Ya-Rong/PL/tree/main/week2_220915)
+#### [week 4](https://github.com/Ya-Rong/PL/tree/main/week4_220929)
 ### 作業連結區：
 #### [HW1](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
 ### 專題連結區：
