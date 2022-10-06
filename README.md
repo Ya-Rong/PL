@@ -33,7 +33,7 @@
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=jF557RxtXFs)、[課程錄影part2](https://www.youtube.com/watch?v=wEkaGEma22w)、[課程錄影part3](https://www.youtube.com/watch?v=IPNpHfKWXJ8)
 ##### week5
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
-###### ． [課程錄影part1]
+###### ． [課程錄影part1](https://www.youtube.com/watch?v=KS8IgeivYac)、[課程錄影part2](https://www.youtube.com/watch?v=xmvN-teRVSk)、[課程錄影part3](https://www.youtube.com/watch?v=16XfR-CXphY)
 --------------------
 ## 📚參考資料
 ##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook
