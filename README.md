@@ -12,6 +12,7 @@
 #### [week 4](https://github.com/Ya-Rong/PL/tree/main/week4_220929)
 ### 作業連結區：
 #### [HW1](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
+#### [HW2](https://github.com/Ya-Rong/PL/blob/main/HW2/HW2.ipynb)
 ### 專題連結區：
 ### [課程筆記區](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
 --------------------
@@ -30,6 +31,9 @@
 ##### week4
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=jF557RxtXFs)、[課程錄影part2](https://www.youtube.com/watch?v=wEkaGEma22w)、[課程錄影part3](https://www.youtube.com/watch?v=IPNpHfKWXJ8)
+##### week5
+###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
+###### ． [課程錄影part1]
 --------------------
 ## 📚參考資料
 ##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook
