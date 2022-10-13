@@ -39,8 +39,9 @@
 ###### ． [HW2範例參考](https://github.com/pecu/PL/blob/main/HW2.ipynb)
 ##### week6
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.g1620ff225c7_0_37)
-###### ． [課程錄影part1]
+###### ． [課程錄影part1](https://www.youtube.com/watch?v=8zpzqD2H2PI)、[課程錄影part2](https://www.youtube.com/watch?v=GrgUwAtTJp8)、[課程錄影part3](https://www.youtube.com/watch?v=MKAurMBOzmQ)
 ###### ． [參考網站](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 --------------------
 ## 📚參考資料
+##### [Markdown語法說明](https://markdown.tw/)
 ##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook
