@@ -37,6 +37,10 @@
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=KS8IgeivYac)、[課程錄影part2](https://www.youtube.com/watch?v=xmvN-teRVSk)、[課程錄影part3](https://www.youtube.com/watch?v=16XfR-CXphY)
 ###### ． [HW2範例參考](https://github.com/pecu/PL/blob/main/HW2.ipynb)
+##### week6
+###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.g1620ff225c7_0_37)
+###### ． [課程錄影part1]
+###### ． [參考網站](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 --------------------
 ## 📚參考資料
 ##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook
