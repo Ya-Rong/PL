@@ -41,6 +41,11 @@
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.g1620ff225c7_0_37)
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=8zpzqD2H2PI)、[課程錄影part2](https://www.youtube.com/watch?v=GrgUwAtTJp8)、[課程錄影part3](https://www.youtube.com/watch?v=MKAurMBOzmQ)
 ###### ． [參考網站](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
+##### week7
+###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
+###### ． [課程錄影part1]
+###### ． [Python網路爬蟲](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
+###### ． [爬蟲教學影片](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
 --------------------
 ## 📚參考資料
 ##### [Markdown語法說明](https://markdown.tw/)
