@@ -14,7 +14,8 @@
 #### [HW1](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
 #### [HW2](https://github.com/Ya-Rong/PL/blob/main/HW2/HW2.ipynb)
 ### 專題連結區：
-### [課程筆記區](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
+### 課程筆記區：
+#### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
 --------------------
 #### 每週課程紀錄
 ##### week1
@@ -43,9 +44,10 @@
 ###### ． [參考網站](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 ##### week7
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
-###### ． [課程錄影part1]
+###### ． [課程錄影part1](https://www.youtube.com/watch?v=N1EtLn91Xj0)、[課程錄影part2](https://www.youtube.com/watch?v=uqP9iaeDCqw)、[課程錄影part3](https://www.youtube.com/watch?v=XcgxxsDZxZ0)
 ###### ． [Python網路爬蟲](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
 ###### ． [爬蟲教學影片](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
+
 --------------------
 ## 📚參考資料
 ##### [Markdown語法說明](https://markdown.tw/)
