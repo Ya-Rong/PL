@@ -10,6 +10,8 @@
 #### [week 1](https://github.com/Ya-Rong/PL/tree/main/week1_220908)
 #### [week 2](https://github.com/Ya-Rong/PL/tree/main/week2_220915)
 #### [week 4](https://github.com/Ya-Rong/PL/tree/main/week4_220929)
+#### [week 6](https://github.com/Ya-Rong/PL/tree/main/week6_221013)
+#### [week 8](https://github.com/Ya-Rong/PL/tree/main/week8_221027)
 ### 作業連結區：
 #### [HW1](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
 #### [HW2](https://github.com/Ya-Rong/PL/blob/main/HW2/HW2.ipynb)
