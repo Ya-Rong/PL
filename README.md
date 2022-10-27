@@ -47,6 +47,10 @@
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=N1EtLn91Xj0)、[課程錄影part2](https://www.youtube.com/watch?v=uqP9iaeDCqw)、[課程錄影part3](https://www.youtube.com/watch?v=XcgxxsDZxZ0)
 ###### ． [Python網路爬蟲](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
 ###### ． [爬蟲教學影片](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
+##### week8
+###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)
+###### ． [課程錄影part1]
+###### ． [Python資料彙整](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4_code.ipynb)
 
 --------------------
 ## 📚參考資料
