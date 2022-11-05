@@ -16,6 +16,7 @@
 #### [HW1](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
 #### [HW2](https://github.com/Ya-Rong/PL/blob/main/HW2/HW2.ipynb)
 #### [HW3](https://github.com/Ya-Rong/PL/blob/main/HW3/HW3.ipynb)
+#### [HW4](https://github.com/Ya-Rong/PL/blob/main/HW4/HW4.ipynb)
 ### 專題連結區：
 ### 課程筆記區：
 #### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
@@ -56,6 +57,11 @@
 ###### ． [Python資料彙整](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4_code.ipynb)
 ###### ． [Python04_JSON](https://github.com/pecu/PL/blob/main/Python04_JSON.ipynb)
 ###### ． [Plotly Python Graphing Library](https://plotly.com/python/)
+##### week9_Python 文字探勘
+###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p)
+###### ． [課程錄影](https://www.youtube.com/watch?v=YYoZXoOftK0)
+###### ． [搜尋套件網站](https://anaconda.org/)
+
 
 --------------------
 ## 📚參考資料
