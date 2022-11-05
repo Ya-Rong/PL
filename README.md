@@ -45,7 +45,7 @@
 ##### week6_資料正則化
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.g1620ff225c7_0_37)
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=8zpzqD2H2PI)、[課程錄影part2](https://www.youtube.com/watch?v=GrgUwAtTJp8)、[課程錄影part3](https://www.youtube.com/watch?v=MKAurMBOzmQ)
-###### ． [參考網站](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
+###### ． [Dictionaries Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 ##### week7_ 網路爬蟲
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ###### ． [課程錄影part1](https://www.youtube.com/watch?v=N1EtLn91Xj0)、[課程錄影part2](https://www.youtube.com/watch?v=uqP9iaeDCqw)、[課程錄影part3](https://www.youtube.com/watch?v=XcgxxsDZxZ0)
