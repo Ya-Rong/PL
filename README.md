@@ -78,3 +78,16 @@
 ## 📚參考資料
 ##### [Markdown語法說明](https://markdown.tw/)
 ##### [參考書目](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook
+
+
+--------------------
+## (smiley face)工具網站
+##### [政府資料開放平臺](https://data.gov.tw/)
+##### [World Bank Open Data](https://data.worldbank.org/)
+##### [Editor|JSON Crack](https://jsoncrack.com/editor)
+##### [Python Tutor code visualizer](https://pythontutor.com/visualize.html#code=&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
+##### [Plotly Python Graphing Library](https://plotly.com/python/)
+##### [Learn Python 3: Dictionaries Cheatsheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
+##### [Anaconda.org](https://anaconda.org/)
+##### [Strings et expressions reguliers](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
+##### [RegExr:Learn,Build,Test](https://regexr.com/)
