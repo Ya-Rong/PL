@@ -19,7 +19,7 @@
 #### [HW4](https://github.com/Ya-Rong/PL/blob/main/HW4/HW4.ipynb)
 ### 專題連結區：
 ### 課程筆記區：
-#### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)：
+#### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)
 --------------------
 #### 每週課程紀錄
 ##### week1_課程說明
@@ -81,7 +81,7 @@
 
 
 --------------------
-## (smiley face)工具網站
+## 工具網站
 ##### [政府資料開放平臺](https://data.gov.tw/)
 ##### [World Bank Open Data](https://data.worldbank.org/)
 ##### [Editor|JSON Crack](https://jsoncrack.com/editor)
