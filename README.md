@@ -70,6 +70,7 @@
 ###### ． 
 ##### week11_如何開創自己的路_專題演講
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)
+###### ． [課程錄影part1](https://youtu.be/zLz8bt9v9x0)、[課程錄影part2](https://youtu.be/4ZQnCYyjPBQ)
 ###### ． [教材_Python文字探勘、文本共現網路分析](https://www.google.com/url?q=https://github.com/pecu/LawTech/tree/main/Learning-Materials/C6_Python_%25E6%2596%2587%25E5%25AD%2597%25E6%258E%25A2%25E5%258B%2598%2526%25E6%2596%2587%25E6%259C%25AC%25E5%2585%25B1%25E7%258F%25BE%25E7%25B6%25B2%25E8%25B7%25AF%25E5%2588%2586%25E6%259E%2590&sa=D&source=editors&ust=1668509468863145&usg=AOvVaw0IaNVXLTRnLtEwuo_P84PD)
 ###### ． [影片_Python文字探勘、文本共現網路分析](https://youtu.be/X2QsNvPkYbQ)
 ###### ． [示範教材解說影片](https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLZPupYHVv8XdjA45LMTdhw848NXxGqii9&sa=D&source=editors&ust=1668509468891309&usg=AOvVaw0rotabfQ5MgGFZ8gkUEP_q)
