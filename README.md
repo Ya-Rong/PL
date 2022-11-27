@@ -18,6 +18,9 @@
 #### [HW3](https://github.com/Ya-Rong/PL/blob/main/HW3/HW3.ipynb)
 #### [HW4](https://github.com/Ya-Rong/PL/blob/main/HW4/HW4.ipynb)
 #### [HW4_Medium](https://medium.com/@yaaaarong/%E6%83%B3%E9%A8%8E%E9%90%B5%E9%A6%AC%E5%87%BA%E9%81%8A-%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A9%B2%E5%BE%80%E4%BD%95%E8%99%95%E5%8E%BB-9ef559100fca)
+#### [HW5_文字探勘](https://github.com/Ya-Rong/PL/blob/main/HW5/HW5_文字探勘.ipynb)
+#### [HW5_文本共現性分析](https://github.com/Ya-Rong/PL/blob/main/HW5/HW5_文本共現性分析.ipynb)
+#### [HW5_Medium](https://medium.com/@yaaaarong/2-%E6%83%B3%E9%A8%8E%E9%90%B5%E9%A6%AC%E5%87%BA%E9%81%8A-%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A9%B2%E5%BE%80%E4%BD%95%E8%99%95%E5%8E%BB-6296efd0a826)
 ### 專題連結區：
 ### 課程筆記區：
 #### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)
@@ -77,6 +80,7 @@
 ##### week11_FIGMA 專題設計提案
 ###### ． [課程影片](https://www.youtube.com/watch?v=SpdaZUMjNfA)
 ###### ． [課程錄影](https://www.youtube.com/watch?v=tccJOo2NDvY)
+###### ． [示範教材解說影片](https://www.youtube.com/playlist?list=PLZPupYHVv8XdjA45LMTdhw848NXxGqii9)
 
 
 --------------------
