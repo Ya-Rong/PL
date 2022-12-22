@@ -70,8 +70,7 @@
 ###### ． [搜尋套件網站](https://anaconda.org/)
 ###### ． [示範教材解說影片](https://www.youtube.com/playlist?list=PLZPupYHVv8XdjA45LMTdhw848NXxGqii9)
 ###### ． [文字探勘工具解析1](https://www.google.com/url?q=https://github.com/lining0806/TextMining&sa=D&source=editors&ust=1667643334149738&usg=AOvVaw2J5dAOquNGuTUFs5hyvHMv)、[文字探勘工具解析2](https://www.google.com/url?q=https://github.com/pecu/POLITICS-AND-INFORMATION/tree/master/2021-11-09%2520%25E5%259F%25BA%25E6%259C%25AC%25E6%2596%2587%25E5%25AD%2597%25E6%258E%25A2%25E5%258B%2598%25E8%2588%2587LDA&sa=D&source=editors&ust=1667643334150204&usg=AOvVaw05HqEG67vMPI00g9D_U6PJ)、[文字探勘工具解析3](https://www.google.com/url?q=https://danjtchen.medium.com/textrank-%25E6%2596%2587%25E5%25AD%2597%25E6%258E%25A2%25E5%258B%2598-%25E6%2589%25BE%25E5%2587%25BA%25E9%2597%259C%25E9%258D%25B5%25E5%25AD%2597-%25E4%25BB%25A5-%25E5%2585%25AB%25E5%258D%25A6%25E7%2589%2588%25E6%25A8%2599%25E9%25A1%258C%25E7%2582%25BA%25E4%25BE%258B-b16620370872&sa=D&source=editors&ust=1667643334150828&usg=AOvVaw1FeeLX57toYzqhQx7444m4)、[文字探勘工具解析4](https://www.google.com/url?q=https://medium.com/@peilee-98185/python-%25E5%25A5%2597%25E4%25BB%25B6%25E6%25AF%2594%25E8%25BC%2583-%25E7%25B9%2581%25E9%25AB%2594%25E4%25B8%25AD%25E6%2596%2587%25E6%2596%25B7%25E5%25AD%2597-4e7a452138f8&sa=D&source=editors&ust=1667643334151356&usg=AOvVaw0ourj2v3KPHqWIlppAhIWv)
-##### week10_鱸魚 - 矽谷觀察家_專題演講
-###### ． 
+##### week10_鱸魚 - 矽谷觀察家_專題演講 
 ##### week11_如何開創自己的路_專題演講
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ###### ． [課程錄影part1](https://youtu.be/zLz8bt9v9x0)、[課程錄影part2](https://youtu.be/4ZQnCYyjPBQ)
