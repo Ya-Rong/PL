@@ -22,6 +22,7 @@
 #### [HW5_文本共現性分析](https://github.com/Ya-Rong/PL/blob/main/HW5/HW5_文本共現性分析.ipynb)
 #### [HW5_Medium](https://medium.com/@yaaaarong/2-%E6%83%B3%E9%A8%8E%E9%90%B5%E9%A6%AC%E5%87%BA%E9%81%8A-%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A9%B2%E5%BE%80%E4%BD%95%E8%99%95%E5%8E%BB-6296efd0a826)
 ### 專題連結區：
+#### [Techpedia 百「科」全書](https://youtu.be/_TbHYCYGKCA)
 ### 課程筆記區：
 #### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)
 --------------------
@@ -77,12 +78,16 @@
 ###### ． [教材_Python文字探勘、文本共現網路分析](https://www.google.com/url?q=https://github.com/pecu/LawTech/tree/main/Learning-Materials/C6_Python_%25E6%2596%2587%25E5%25AD%2597%25E6%258E%25A2%25E5%258B%2598%2526%25E6%2596%2587%25E6%259C%25AC%25E5%2585%25B1%25E7%258F%25BE%25E7%25B6%25B2%25E8%25B7%25AF%25E5%2588%2586%25E6%259E%2590&sa=D&source=editors&ust=1668509468863145&usg=AOvVaw0IaNVXLTRnLtEwuo_P84PD)
 ###### ． [影片_Python文字探勘、文本共現網路分析](https://youtu.be/X2QsNvPkYbQ)
 ###### ． [示範教材解說影片](https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLZPupYHVv8XdjA45LMTdhw848NXxGqii9&sa=D&source=editors&ust=1668509468891309&usg=AOvVaw0rotabfQ5MgGFZ8gkUEP_q)
-##### week11_FIGMA 專題設計提案
+##### week12_FIGMA 專題設計提案
 ###### ． [課程影片](https://www.youtube.com/watch?v=SpdaZUMjNfA)
 ###### ． [課程錄影](https://www.youtube.com/watch?v=tccJOo2NDvY)
 ###### ． [示範教材解說影片](https://www.youtube.com/playlist?list=PLZPupYHVv8XdjA45LMTdhw848NXxGqii9)
-
-
+##### week13_期末專題提案
+###### ． [課程錄影](https://www.youtube.com/watch?v=13GP-JQp_Z8)
+##### week14_期末專題製作
+##### week15_期末專題製作
+##### week16_期末專題發表
+###### ． [課程錄影]
 --------------------
 ## 📚參考資料
 ##### [Markdown語法說明](https://markdown.tw/)
