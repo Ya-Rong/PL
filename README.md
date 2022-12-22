@@ -13,16 +13,18 @@
 #### [week 6](https://github.com/Ya-Rong/PL/tree/main/week6_221013)
 #### [week 8](https://github.com/Ya-Rong/PL/tree/main/week8_221027)
 ### 作業連結區：
-#### [HW1](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
-#### [HW2](https://github.com/Ya-Rong/PL/blob/main/HW2/HW2.ipynb)
-#### [HW3](https://github.com/Ya-Rong/PL/blob/main/HW3/HW3.ipynb)
-#### [HW4](https://github.com/Ya-Rong/PL/blob/main/HW4/HW4.ipynb)
+#### [HW1_交集聯集差集](https://github.com/Ya-Rong/PL/blob/main/HW1/HW1.ipynb)
+#### [HW2_Dictionary、JSON](https://github.com/Ya-Rong/PL/blob/main/HW2/HW2.ipynb)
+#### [HW3_爬蟲crawler](https://github.com/Ya-Rong/PL/blob/main/HW3/HW3.ipynb)
+#### [HW4_文字探勘](https://github.com/Ya-Rong/PL/blob/main/HW4/HW4.ipynb)
 #### [HW4_Medium](https://medium.com/@yaaaarong/%E6%83%B3%E9%A8%8E%E9%90%B5%E9%A6%AC%E5%87%BA%E9%81%8A-%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A9%B2%E5%BE%80%E4%BD%95%E8%99%95%E5%8E%BB-9ef559100fca)
 #### [HW5_文字探勘](https://github.com/Ya-Rong/PL/blob/main/HW5/HW5_文字探勘.ipynb)
 #### [HW5_文本共現性分析](https://github.com/Ya-Rong/PL/blob/main/HW5/HW5_文本共現性分析.ipynb)
 #### [HW5_Medium](https://medium.com/@yaaaarong/2-%E6%83%B3%E9%A8%8E%E9%90%B5%E9%A6%AC%E5%87%BA%E9%81%8A-%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A9%B2%E5%BE%80%E4%BD%95%E8%99%95%E5%8E%BB-6296efd0a826)
 ### 專題連結區：
-#### [Techpedia 百「科」全書](https://youtu.be/_TbHYCYGKCA)
+#### [Techpedia 百「科」全書_發表影片](https://youtu.be/_TbHYCYGKCA)
+#### [Techpedia 百「科」全書_Figma](https://www.figma.com/proto/Dh5M54bcDmmtcHXMRXxKXD/Techpedia?node-id=69%3A121&scaling=scale-down&page-id=0%3A1&starting-point-node-id=69%3A121)
+#### [文字探勘與共現性分析_Medium](https://medium.com/@yaaaarong/文字探勘與共現性分析-fc474985855b)
 ### 課程筆記區：
 #### [課程筆記](https://docs.google.com/document/d/1EKK-1l7MgIeq1OZ5F1fcGJwqpsR4wyJfoSrK1jw0ZrA/edit)
 --------------------
@@ -70,7 +72,8 @@
 ###### ． [搜尋套件網站](https://anaconda.org/)
 ###### ． [示範教材解說影片](https://www.youtube.com/playlist?list=PLZPupYHVv8XdjA45LMTdhw848NXxGqii9)
 ###### ． [文字探勘工具解析1](https://www.google.com/url?q=https://github.com/lining0806/TextMining&sa=D&source=editors&ust=1667643334149738&usg=AOvVaw2J5dAOquNGuTUFs5hyvHMv)、[文字探勘工具解析2](https://www.google.com/url?q=https://github.com/pecu/POLITICS-AND-INFORMATION/tree/master/2021-11-09%2520%25E5%259F%25BA%25E6%259C%25AC%25E6%2596%2587%25E5%25AD%2597%25E6%258E%25A2%25E5%258B%2598%25E8%2588%2587LDA&sa=D&source=editors&ust=1667643334150204&usg=AOvVaw05HqEG67vMPI00g9D_U6PJ)、[文字探勘工具解析3](https://www.google.com/url?q=https://danjtchen.medium.com/textrank-%25E6%2596%2587%25E5%25AD%2597%25E6%258E%25A2%25E5%258B%2598-%25E6%2589%25BE%25E5%2587%25BA%25E9%2597%259C%25E9%258D%25B5%25E5%25AD%2597-%25E4%25BB%25A5-%25E5%2585%25AB%25E5%258D%25A6%25E7%2589%2588%25E6%25A8%2599%25E9%25A1%258C%25E7%2582%25BA%25E4%25BE%258B-b16620370872&sa=D&source=editors&ust=1667643334150828&usg=AOvVaw1FeeLX57toYzqhQx7444m4)、[文字探勘工具解析4](https://www.google.com/url?q=https://medium.com/@peilee-98185/python-%25E5%25A5%2597%25E4%25BB%25B6%25E6%25AF%2594%25E8%25BC%2583-%25E7%25B9%2581%25E9%25AB%2594%25E4%25B8%25AD%25E6%2596%2587%25E6%2596%25B7%25E5%25AD%2597-4e7a452138f8&sa=D&source=editors&ust=1667643334151356&usg=AOvVaw0ourj2v3KPHqWIlppAhIWv)
-##### week10_鱸魚 - 矽谷觀察家_專題演講 
+##### week10_鱸魚 - 矽谷觀察家_專題演講
+###### ． [演講紀錄](https://github.com/Ya-Rong/PL/blob/main/week10_221110/%E7%9F%BD%E8%B0%B7%E8%A7%80%E5%AF%9F%E5%AE%B6%20-%20%E9%B1%B8%E9%AD%9A%20-%20%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B) 
 ##### week11_如何開創自己的路_專題演講
 ###### ． [課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ###### ． [課程錄影part1](https://youtu.be/zLz8bt9v9x0)、[課程錄影part2](https://youtu.be/4ZQnCYyjPBQ)
@@ -86,7 +89,7 @@
 ##### week14_期末專題製作
 ##### week15_期末專題製作
 ##### week16_期末專題發表
-###### ． [課程錄影]
+###### ． [臺師大科技系 111-1 程式語言期末專題影片列表](https://www.youtube.com/playlist?list=PLH3VeiMX0ckgMa2uw4TF907vdkijywV9I)
 --------------------
 ## 📚參考資料
 ##### [Markdown語法說明](https://markdown.tw/)
